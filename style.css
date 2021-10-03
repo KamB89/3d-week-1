@@ -1,0 +1,54 @@
+
+body{
+    background-color: rgb(2, 85, 85);
+}
+
+
+.columns{
+    display: flex;
+    background-color: white;
+    background: rgb(2, 85, 85);
+    color: white;
+}
+
+.column1{
+    margin-left: 300px;
+    margin-top: 200px;
+
+    
+}
+
+
+.column2{
+    margin-left: 300px;
+    margin-top: 200px;
+    
+}
+
+
+.column3{
+    margin-left:400px;
+    margin-top: 250px;
+}
+img:hover {
+    background-color: red;
+}
+
+hr{
+    margin-top: 30px;
+}
+
+p{
+    text-align: center;
+    color: white;
+    text-align: left;
+}
+
+.copyright{
+    text-align: center;
+}
+
+span:hover{
+
+background-image: url(youtube2.jpg);
+}
